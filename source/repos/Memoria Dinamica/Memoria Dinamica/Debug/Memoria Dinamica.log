@@ -1,0 +1,4 @@
+﻿  Memoria Dinamica.cpp
+c:\users\bernat.grifol\source\repos\memoria dinamica\memoria dinamica\memoria dinamica.cpp(13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+c:\users\bernat.grifol\source\repos\memoria dinamica\memoria dinamica\memoria dinamica.cpp(14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Memoria Dinamica.vcxproj -> C:\Users\bernat.grifol\source\repos\Memoria Dinamica\Debug\Memoria Dinamica.exe
